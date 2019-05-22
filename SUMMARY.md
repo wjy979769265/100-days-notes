@@ -5,3 +5,5 @@
 
  -[Introduction](README.md)
 * [Logistic Regression](Logistic regression.md)
+* [SVM](svm.md)
+* [Logistic Regression](Logistic regression.md)
