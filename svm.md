@@ -31,7 +31,7 @@ Linear splines kernel in one-dimension|text categorization，回归问题，处�
 
 Result (rbf kernel and linear kernel):
 <center>
-    <img src="SVM rbf kernel.png"  width = "350" height = "300")/> <img src="SVM linear kernel.png" width = "350" height = "300")/>
+    <img src="SVM rbf kernel.png"  width = "300" height = "260")/> <img src="SVM linear kernel.png" width = "300" height = "260")/>
 S
 </center>
 

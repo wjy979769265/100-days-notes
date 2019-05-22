@@ -23,9 +23,11 @@ classifier = KNeighborsClassifier(n_neighbors = 5, metric = 'minkowski', p = 2)
 classifier.fit(X_train,Y_train)
 ```
 Results<br>
-<img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/raw/master/Other%20Docs/testing.png"  width = "350" height = "300")/> <img src="KNN.png" width = "350" height = "300")/>
+![](https://github.com/Avik-Jain/100-Days-Of-ML-Code/raw/master/Other%20Docs/testing.png) <img src="KNN.png" width = "350" height = "300")/>
 
 Logistic regression is linear, the edge is smmoth, KNN will find the cluster.
+
+
 
 
 
