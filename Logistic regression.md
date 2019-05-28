@@ -24,11 +24,10 @@ classifier.fit(X_train,Y_train)
 ```
 Results<br>
 
-<center>
-    
 ![](https://github.com/Avik-Jain/100-Days-Of-ML-Code/raw/master/Other%20Docs/testing.png)
-    <img src="KNN.png" width = "350" height = "300")/>
-</center>
+
+
+<img src="KNN.png" width = "350" height = "300")/> 
 
 
 Logistic regression is linear, the edge is smmoth, KNN will find the cluster.
